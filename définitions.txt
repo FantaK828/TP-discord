@@ -1,0 +1,3 @@
+1-Bots est l’abréviation de robots. Ce terme est connu des gamers qui peuvent jouer contre des robots dans les parties pour s’entraîner
+2- Le Logging c'est là ou on stock les données
+3-Les logs sont des fichiers hébergés sur le serveur web du site à analyser
